@@ -1,0 +1,11 @@
+.pio
+.pioenvs
+it.piolibdeps
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+.DS_Store
+src/user_config_override.h
